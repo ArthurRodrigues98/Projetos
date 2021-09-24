@@ -1,12 +1,12 @@
 :root{
     /* Paleta de cores*/
     --cor1:hsl(179, 62%, 43%);
-    --cor2:hsl(71, 73%, 54%);
-    --cor3:hsl(204, 43%, 93%);
-    --cor4:hsl(218, 22%, 67%);
+    --cor2:hsl(71, 73%, 51%);
+    --cor3:hsl(210, 8%, 95%);
+    --cor4:hsl(216, 3%, 64%);
 }
 body{
-    background-color:hsl(200, 4%, 86%);
+    background-color:hsl(200, 5%, 89%);
     margin:auto;
     width: 100%;
     text-align: center;
