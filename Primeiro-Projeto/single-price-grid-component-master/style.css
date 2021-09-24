@@ -8,6 +8,7 @@
 body{
     background-color:hsl(200, 4%, 86%);
     margin:auto;
+    width: 100%;
     text-align: center;
     margin-bottom: 0px;
     height: 100%;
@@ -16,7 +17,6 @@ body{
 body>#conteudo{
         box-sizing:border-box;
         text-align: justify;
-        
         margin: auto;
         margin-top: 5%;
         padding-bottom: -40%;
@@ -27,6 +27,7 @@ body>#conteudo{
         display:grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
+        grid-template-areas: 300vh;
         
         
 }
